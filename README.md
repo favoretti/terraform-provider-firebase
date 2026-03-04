@@ -13,7 +13,7 @@ A Terraform provider for managing Google Cloud Firestore documents.
 ### From Source
 
 ```bash
-git clone https://github.com/terraform-provider-firestore
+git clone https://github.com/favoretti/terraform-provider-firestore
 cd terraform-provider-firestore
 make install
 ```
@@ -48,7 +48,7 @@ The provider supports two authentication methods:
 terraform {
   required_providers {
     firestore = {
-      source = "registry.terraform.io/tbd/firestore"
+      source = "registry.terraform.io/favoretti/firestore"
     }
   }
 }
