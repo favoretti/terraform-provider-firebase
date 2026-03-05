@@ -2,6 +2,8 @@
 
 A Terraform provider for managing Google Cloud Firestore documents.
 
+[![release](https://github.com/favoretti/terraform-provider-firestore/actions/workflows/release.yml/badge.svg)](https://github.com/favoretti/terraform-provider-firestore/actions/workflows/release.yml)
+
 ## Requirements
 
 - [Terraform](https://www.terraform.io/downloads.html) >= 1.0
